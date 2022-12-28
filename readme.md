@@ -14,7 +14,7 @@ v17.9.0</b><br><br>
 <b>root@npm:/home/odmin/project9# npm -v
 8.5.5 </b><br><br>
 3. Создайте репозиторий или используйте уже созданный вами для обучения.
-<b><a href:https://www.npmjs.com/package/project9.2.7 >https://www.npmjs.com/package/project9.2.7</b></a><br><br>
+<b>https://www.npmjs.com/package/project9.2.7</b><br><br>
 
 4. Создайте автоматически package.json.<br>
 <b>
@@ -46,9 +46,9 @@ v17.9.0</b><br><br>
 └── jquery3@1.0.0 -> ./jquery
  </b><br><br>
 6. Сделайте коммит изменений.<br>
-<b>NPM URL:<a href:https://www.npmjs.com/package/project9.2.7 > https://www.npmjs.com/package/project9.2.7 </a><br>
-GIT URL: <a href:https://github.com/Suirus777/Project_9.2 > https://github.com/Suirus777/Project_9.2 </a></b><br><br> 
+<b>NPM URL: https://www.npmjs.com/package/project9.2.7 
+   GIT URL: https://github.com/Suirus777/Project_9.2 </b><br><br> 
 7. Ссылку на удаленный репозиторий опубликуйте в форме для ввода ответа в финальном юните. <br>
-<b>NPM URL:<a href:https://www.npmjs.com/package/project9.2.7 > https://www.npmjs.com/package/project9.2.7 </a><br>
-GIT URL: <a href:https://github.com/Suirus777/Project_9.2 > https://github.com/Suirus777/Project_9.2 </a></b><br>
+<b>NPM URL:https://www.npmjs.com/package/project9.2.7 <br>
+GIT URL:https://github.com/Suirus777/Project_9.2 </b><br>
 
