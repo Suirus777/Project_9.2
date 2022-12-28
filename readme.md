@@ -46,7 +46,7 @@ v17.9.0</b><br><br>
 └── jquery3@1.0.0 -> ./jquery
  </b><br><br>
 6. Сделайте коммит изменений.<br>
-<b>NPM URL: https://www.npmjs.com/package/project-9.2.7 
+<b>NPM URL: https://www.npmjs.com/package/project-9.2.7 <br>
    GIT URL: https://github.com/Suirus777/Project_9.2 </b><br><br> 
 7. Ссылку на удаленный репозиторий опубликуйте в форме для ввода ответа в финальном юните. <br>
 <b>NPM URL:https://www.npmjs.com/package/project-9.2.7 <br>
