@@ -42,7 +42,7 @@ v17.9.0</b><br><br>
 } 
 </b><br><br>
 5. Установите в свой проект библиотеку jquery.<br>
-<b>project9.2@1.0.0 /home/odmin/project9<br>
+<b>project-9.2@1.0.0 /home/odmin/project9<br>
 └── jquery3@1.0.0 -> ./jquery
  </b><br><br>
 6. Сделайте коммит изменений.<br>
