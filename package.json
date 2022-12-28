@@ -1,0 +1,22 @@
+{
+  "name": "project9.2",
+  "version": "1.0.0",
+  "description": "!!!!!!!!!!!!!!!!!!!!!! !!!  Задание B9.2.7!!! !!!!!!!!!!!!!!!!!!!!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Suirus777/Project_9.2.git"
+  },
+  "author": "Vyacheslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suirus777/Project_9.2/issues"
+  },
+  "homepage": "https://github.com/Suirus777/Project_9.2#readme",
+  "dependencies": {
+    "jquery3": "file:jquery"
+  }
+}
